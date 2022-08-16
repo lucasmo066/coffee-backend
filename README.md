@@ -1,8 +1,11 @@
 # Coffee Shop Backend
 
-This is the repo for the backend of the coffee shop app for the Big Nerd Ranch - React Course.
+This is the repo for the backend of the coffee shop app, clone into your desktop and then using the terminal navigate to the coffee-backend on your computer:
 
-Run with `npm start`
+cd YOUR_PATH/coffee-backend
+
+Once you are in the backend folder, type 'npm start'. The backend will open on localhost:3030
+
 
 ## Branches
 
